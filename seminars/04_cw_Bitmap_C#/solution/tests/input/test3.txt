@@ -1,0 +1,2 @@
+FactResellerSales.SalesOrderNumber,FactResellerSales.OrderQuantity,FactResellerSales.CarrierTrackingNumber,FactResellerSales.CustomerPONumber
+0

@@ -1,0 +1,71 @@
+insert 72 94
+insert 96 22
+find 26
+insert 74 41
+insert 4 83
+find 81
+insert 4 50
+insert 60 63
+find 47
+insert 90 57
+insert 53 55
+insert 79 34
+find 92
+insert 57 78
+insert 39 65
+insert 83 32
+insert 39 87
+find 91
+find 5
+find 13
+insert 50 44
+find 34
+find 29
+insert 15 99
+find 16
+insert 57 88
+insert 14 25
+insert 65 64
+find 34
+find 61
+find 65
+insert 98 69
+insert 94 29
+find 95
+insert 6 80
+find 61
+insert 95 95
+find 34
+insert 33 17
+find 24
+insert 97 70
+find 93
+insert 79 47
+find 32
+find 36
+insert 23 70
+insert 7 95
+find 11
+find 88
+insert 79 24
+find 60
+insert 85 59
+find 5
+insert 55 13
+insert 48 49
+insert 6 21
+insert 20 84
+insert 0 66
+insert 6 57
+find 53
+find 58
+find 99
+find 43
+find 77
+find 10
+insert 50 25
+find 88
+insert 43 89
+find 63
+find 26
+find 46

@@ -1,0 +1,10 @@
+FactResellerSales.OrderQuantity,FactResellerSales.EmployeeKey,FactResellerSales.CarrierTrackingNumber
+8
+DimProduct.ReorderPoint > 231
+DimProduct.ReorderPoint < 1000
+DimEmployee.Gender = 'M'
+DimEmployee.VacationHours <= 84
+DimCurrency.CurrencyName <> 'Russian Ruble(old)'
+DimDate.CalendarQuarter = 1
+DimDate.FiscalSemester <> 1
+DimReseller.NumberEmployees >= 27

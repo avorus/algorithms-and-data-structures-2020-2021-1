@@ -1,0 +1,6 @@
+FactResellerSales.SalesOrderLineNumber
+4
+DimReseller.YearOpened > 1854
+DimCurrency.CurrencyAlternateKey <> 'BYN'
+DimPromotion.MinQty <= 61
+DimEmployee.PayFrequency < 11

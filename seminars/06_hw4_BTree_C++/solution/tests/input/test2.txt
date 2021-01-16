@@ -1,0 +1,208 @@
+insert 49 38
+insert 167 56
+find 168
+find 187
+insert 18 135
+find 140
+find 125
+find 126
+insert 165 138
+insert 104 88
+insert 189 48
+insert 103 174
+insert 11 98
+find 176
+find 151
+insert 3 82
+insert 131 191
+insert 199 23
+find 160
+find 179
+find 31
+insert 62 88
+insert 33 63
+find 20
+insert 144 38
+insert 31 106
+find 29
+insert 138 27
+insert 141 138
+find 81
+find 171
+insert 119 23
+insert 72 37
+find 191
+insert 120 134
+insert 71 165
+insert 135 46
+insert 103 136
+insert 183 160
+insert 112 65
+find 129
+find 89
+find 199
+find 80
+find 161
+find 182
+find 82
+find 35
+insert 134 16
+insert 46 50
+insert 59 67
+find 152
+find 57
+insert 58 62
+insert 191 145
+insert 2 99
+insert 60 177
+find 63
+find 8
+find 199
+insert 38 11
+insert 131 150
+find 183
+insert 58 116
+find 108
+find 196
+insert 59 158
+find 46
+find 192
+find 92
+insert 173 116
+insert 61 61
+find 28
+insert 88 115
+find 78
+find 158
+find 11
+insert 74 157
+find 108
+find 37
+insert 20 136
+insert 164 192
+insert 18 188
+find 16
+insert 90 142
+find 1
+insert 132 22
+insert 152 161
+find 156
+insert 140 53
+find 88
+insert 19 102
+find 143
+find 151
+insert 67 162
+find 185
+find 156
+insert 123 140
+insert 168 95
+insert 172 112
+insert 132 58
+find 69
+insert 78 187
+find 58
+find 60
+find 160
+insert 106 4
+insert 72 154
+find 46
+insert 31 191
+insert 78 176
+insert 64 198
+find 51
+find 115
+find 57
+insert 100 118
+find 54
+insert 40 160
+insert 18 47
+insert 177 53
+insert 114 33
+find 29
+find 150
+insert 105 83
+insert 195 109
+find 95
+find 19
+insert 172 135
+insert 61 139
+find 104
+find 75
+insert 22 67
+find 4
+insert 47 43
+insert 191 60
+insert 27 131
+insert 163 19
+find 103
+find 169
+find 53
+insert 191 60
+find 175
+find 182
+find 53
+find 96
+find 161
+find 72
+find 188
+insert 141 124
+find 168
+find 153
+insert 55 194
+insert 35 79
+insert 101 49
+insert 47 167
+insert 154 64
+insert 180 133
+insert 194 57
+insert 144 73
+insert 0 151
+find 150
+insert 90 199
+find 46
+insert 97 192
+insert 94 84
+insert 144 2
+find 99
+find 80
+insert 9 76
+insert 100 12
+find 39
+find 150
+insert 5 64
+find 3
+insert 27 82
+insert 175 27
+find 95
+insert 145 140
+insert 102 89
+find 33
+find 0
+find 139
+find 16
+insert 176 197
+find 78
+insert 144 187
+find 128
+insert 107 131
+find 186
+insert 108 50
+find 102
+insert 94 41
+insert 185 170
+find 173
+find 122
+find 53
+find 151
+find 137
+insert 187 14
+insert 56 135
+find 176
+insert 111 108
+find 83
+insert 92 105
+find 177
+find 129
+insert 121 61
+insert 82 119

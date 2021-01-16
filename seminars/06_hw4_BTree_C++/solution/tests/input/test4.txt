@@ -1,0 +1,408 @@
+find 284
+find 82
+insert 213 358
+insert 362 100
+find 345
+insert 387 356
+insert 210 254
+find 140
+find 245
+find 379
+insert 255 183
+find 35
+find 52
+find 252
+find 6
+find 46
+insert 195 265
+insert 365 70
+find 143
+insert 73 46
+find 118
+insert 284 4
+insert 160 39
+find 193
+insert 363 305
+insert 67 286
+insert 198 340
+find 237
+find 227
+find 230
+insert 312 304
+find 200
+find 74
+find 372
+insert 158 65
+find 285
+insert 222 50
+find 222
+insert 393 284
+find 27
+insert 277 302
+insert 195 32
+find 223
+insert 382 32
+insert 39 365
+find 349
+insert 247 330
+insert 22 267
+insert 273 235
+find 292
+insert 375 231
+insert 22 70
+insert 270 299
+insert 129 163
+find 204
+insert 56 0
+insert 268 42
+insert 239 116
+find 263
+find 50
+insert 142 83
+find 215
+insert 194 253
+find 349
+find 128
+find 44
+find 286
+insert 91 243
+find 112
+insert 7 58
+insert 222 221
+find 160
+insert 65 120
+find 142
+insert 357 350
+insert 130 37
+insert 9 44
+insert 216 289
+find 48
+find 192
+find 339
+find 222
+find 94
+insert 72 65
+insert 202 293
+find 279
+find 89
+find 358
+insert 26 366
+insert 193 338
+insert 313 227
+insert 370 334
+insert 68 156
+insert 64 272
+insert 49 195
+find 66
+find 110
+insert 22 70
+find 135
+insert 64 72
+find 366
+find 0
+find 153
+insert 155 111
+find 81
+find 206
+find 345
+find 106
+insert 201 229
+insert 9 80
+insert 74 288
+find 212
+find 239
+insert 219 273
+find 362
+find 267
+insert 335 89
+find 161
+insert 39 295
+insert 215 176
+find 13
+find 29
+insert 302 241
+insert 139 293
+find 185
+insert 253 143
+insert 190 333
+find 105
+find 107
+insert 134 323
+find 242
+find 295
+find 132
+find 54
+insert 62 337
+find 311
+find 120
+find 60
+find 5
+find 59
+insert 198 214
+find 119
+insert 55 23
+insert 8 222
+insert 50 201
+find 72
+insert 385 328
+find 57
+insert 260 127
+find 324
+insert 126 390
+insert 59 160
+find 349
+insert 95 5
+find 120
+find 265
+insert 399 224
+insert 394 43
+find 100
+insert 209 208
+insert 241 154
+find 1
+insert 218 131
+insert 99 271
+insert 180 97
+insert 206 317
+find 37
+insert 387 208
+insert 381 213
+insert 159 364
+find 209
+find 205
+insert 317 322
+insert 0 44
+find 322
+find 276
+find 161
+find 56
+insert 130 231
+insert 168 388
+find 116
+find 264
+insert 263 155
+insert 169 66
+insert 386 274
+find 274
+insert 318 390
+find 324
+find 108
+insert 349 169
+find 63
+insert 172 310
+find 182
+insert 159 52
+find 330
+find 68
+insert 224 322
+find 184
+insert 244 323
+insert 323 155
+find 96
+insert 212 28
+find 45
+insert 363 104
+insert 13 348
+insert 309 200
+find 123
+insert 336 245
+insert 340 219
+insert 71 18
+insert 252 40
+find 178
+find 79
+insert 370 75
+insert 131 311
+insert 298 53
+find 61
+find 316
+insert 161 370
+find 329
+insert 141 61
+find 302
+find 300
+insert 247 265
+insert 179 198
+find 256
+find 205
+find 18
+find 110
+find 296
+insert 19 21
+insert 148 269
+insert 165 133
+insert 170 163
+find 142
+insert 299 380
+find 31
+insert 230 336
+find 194
+find 169
+find 162
+find 213
+insert 342 250
+find 61
+find 295
+find 276
+insert 28 288
+insert 79 277
+find 197
+insert 334 159
+insert 337 83
+insert 59 261
+find 57
+find 44
+find 176
+find 70
+insert 61 311
+find 56
+find 350
+insert 326 396
+find 41
+find 166
+find 174
+insert 363 173
+insert 274 336
+find 48
+insert 228 171
+insert 158 311
+find 241
+find 338
+find 282
+insert 179 288
+find 203
+insert 200 39
+insert 206 183
+insert 369 41
+find 76
+insert 327 327
+find 348
+insert 292 363
+find 82
+insert 190 72
+insert 175 330
+find 198
+find 134
+insert 9 51
+insert 184 381
+insert 378 179
+find 241
+find 119
+find 14
+find 253
+insert 124 272
+find 8
+find 133
+insert 17 94
+insert 95 134
+find 234
+insert 9 146
+find 313
+insert 219 1
+insert 231 123
+find 188
+find 238
+find 189
+find 188
+insert 178 227
+insert 31 255
+find 206
+insert 297 45
+insert 289 301
+insert 301 51
+find 68
+find 367
+find 120
+insert 99 291
+insert 130 225
+find 9
+insert 63 102
+insert 140 19
+insert 99 23
+insert 216 337
+insert 229 15
+insert 123 102
+insert 331 290
+insert 245 9
+find 218
+insert 277 256
+find 10
+find 18
+insert 62 163
+find 249
+find 160
+find 90
+find 139
+insert 93 211
+find 277
+insert 12 26
+find 45
+find 242
+insert 383 136
+insert 128 51
+insert 213 345
+insert 147 120
+find 249
+insert 41 151
+find 9
+insert 178 65
+insert 383 18
+find 158
+find 363
+find 389
+insert 108 268
+find 103
+insert 72 323
+insert 295 184
+insert 322 282
+find 185
+insert 173 54
+insert 257 273
+insert 69 338
+insert 114 71
+insert 128 133
+insert 289 210
+insert 245 314
+insert 278 326
+find 309
+insert 175 71
+find 57
+find 146
+insert 373 162
+find 183
+find 371
+insert 264 331
+find 117
+find 330
+insert 245 5
+find 31
+find 193
+find 153
+find 186
+find 8
+find 207
+find 28
+find 319
+insert 200 286
+insert 392 132
+insert 0 305
+find 51
+find 38
+insert 34 238
+insert 331 159
+insert 266 2
+insert 79 28
+find 357
+insert 226 140
+find 298
+insert 116 29
+find 77
+find 290
+find 109
+find 369
+insert 367 66
+find 245
+insert 353 80
+insert 145 106
+find 203
+insert 117 302
